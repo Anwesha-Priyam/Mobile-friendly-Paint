@@ -1,0 +1,20 @@
+body{
+    background-image: url("bg.jpeg");
+    background-position: center;
+    background-size: cover;
+    cursor: pointer;
+    color: pink;
+}
+
+h1{
+    color: rebeccapurple;
+    font-size: 40px;
+}
+
+#myUserDrawerSpace{
+    border-width: 10px;
+    border-style: ridge;
+}
+input{
+    background-color: goldenrod;
+}
